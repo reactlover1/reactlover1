@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reactlover1
-- 👀 I’m interested in react,nextjs,nodejs,fastify,express,nosql database,docker
+- 👀 I’m interested in react,nextjs,nodejs,fastify,express,nosql mysql database,docker,golang,go fiber, gorm
 - 🌱 I’m currently learning react native
 
 
